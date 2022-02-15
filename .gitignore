@@ -1,0 +1,10 @@
+.vscode
+1_KerasServer
+2_Node
+3_Express
+4_DockerExpress
+__pycache__
+cats_dogs_model
+kagglecatsanddogs*
+model.tflite
+res-cats-dogs.h5
